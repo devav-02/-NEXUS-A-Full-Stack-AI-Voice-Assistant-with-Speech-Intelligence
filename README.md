@@ -151,7 +151,13 @@ NEXUS/
 
 
 ---
+## 🏗️ System Architecture
 
+<p align="center">
+ <img src="architecture.png" width="100%">
+</p>
+
+> High-level architecture of NEXUS showing speech processing, intent routing, AI services, automation, GUI synchronization, and voice response generation.
 ## ⚙️ Installation
 
 ```bash
